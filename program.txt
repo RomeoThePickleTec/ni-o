@@ -1,0 +1,10 @@
+#include "hola"
+
+int main() {
+    public int key;
+    string carlos = "Hola amigos";
+    while while(int i < 0){
+        cout << "Hello" << endl;
+        int a = 8;
+    }
+}

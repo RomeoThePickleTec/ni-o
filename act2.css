@@ -1,0 +1,29 @@
+.variable{
+    color: red;
+}
+.include{
+    color: green;
+}
+.loop{
+    background-color: yellow;
+}
+.data-type{
+    color: purple;
+}
+.class-type{
+    color: blue;
+}
+
+.conditional{
+    color: orange;
+}
+
+.line{
+    display: flex;
+    flex-direction: row;
+}
+
+.block{
+    display: flex;
+    flex-direction: column;
+}
